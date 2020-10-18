@@ -1,0 +1,13 @@
+C:\Users\eleme\workspace\SortArrayEvenFirst\bin\Debug\netcoreapp3.1\SortArrayEvenFirst.exe
+C:\Users\eleme\workspace\SortArrayEvenFirst\bin\Debug\netcoreapp3.1\SortArrayEvenFirst.deps.json
+C:\Users\eleme\workspace\SortArrayEvenFirst\bin\Debug\netcoreapp3.1\SortArrayEvenFirst.runtimeconfig.json
+C:\Users\eleme\workspace\SortArrayEvenFirst\bin\Debug\netcoreapp3.1\SortArrayEvenFirst.runtimeconfig.dev.json
+C:\Users\eleme\workspace\SortArrayEvenFirst\bin\Debug\netcoreapp3.1\SortArrayEvenFirst.dll
+C:\Users\eleme\workspace\SortArrayEvenFirst\bin\Debug\netcoreapp3.1\SortArrayEvenFirst.pdb
+C:\Users\eleme\workspace\SortArrayEvenFirst\obj\Debug\netcoreapp3.1\SortArrayEvenFirst.csprojAssemblyReference.cache
+C:\Users\eleme\workspace\SortArrayEvenFirst\obj\Debug\netcoreapp3.1\SortArrayEvenFirst.AssemblyInfoInputs.cache
+C:\Users\eleme\workspace\SortArrayEvenFirst\obj\Debug\netcoreapp3.1\SortArrayEvenFirst.AssemblyInfo.cs
+C:\Users\eleme\workspace\SortArrayEvenFirst\obj\Debug\netcoreapp3.1\SortArrayEvenFirst.csproj.CoreCompileInputs.cache
+C:\Users\eleme\workspace\SortArrayEvenFirst\obj\Debug\netcoreapp3.1\SortArrayEvenFirst.dll
+C:\Users\eleme\workspace\SortArrayEvenFirst\obj\Debug\netcoreapp3.1\SortArrayEvenFirst.pdb
+C:\Users\eleme\workspace\SortArrayEvenFirst\obj\Debug\netcoreapp3.1\SortArrayEvenFirst.genruntimeconfig.cache
